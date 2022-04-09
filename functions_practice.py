@@ -21,8 +21,8 @@ def eat_lunch(my_list):
         
 
 eat_lunch([])
-eat_lunch(["dosa"])
-eat_lunch(["dosa", "sandwich", "apples"])
+eat_lunch(["bread"])
+eat_lunch(["bread", "sandwich", "apples"])
 
 
 
